@@ -1,6 +1,8 @@
 
 # Vuls: VULnerability Scanner
 
+**NOTE:** This code is only a component for the 10x Dependency Upgrades Project, please visit [the main repo and documentation for more details](https://github.com/18F/10x-dux-vuls-eval/blob/master/README.md#background).
+
 [![Slack](https://img.shields.io/badge/slack-join-blue.svg)](http://goo.gl/forms/xm5KFo35tu)
 [![License](https://img.shields.io/github/license/future-architect/vuls.svg?style=flat-square)](https://github.com/future-architect/vuls/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/future-architect/vuls.svg?branch=master)](https://travis-ci.org/future-architect/vuls)
